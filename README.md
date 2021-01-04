@@ -1,4 +1,3 @@
-# SMOTEBoost Algorithm
 
 ## TEAM J - Ilmu Komputer 2018
 1. Diyah Anggraeny (1313618005)
