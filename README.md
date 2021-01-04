@@ -5,5 +5,9 @@
 2. Rachel Haryawan (1313618026)
 
 ## SMOTEBoost Algorithm
-* Original paper :
-* Source code :
+* Reference paper :
+
+
+* Path :
+  * [Java Source Code](https://github.com/diyahanggraeny/Team-J-SMOTEBoost-Algorithm/blob/master/weka/src/main/java/weka/classifiers/meta/SMOTEBoost.java)
+  * [Original Paper](https://github.com/diyahanggraeny/Team-J-SMOTEBoost-Algorithm/blob/master/Paper%20SMOTEBoost.pdf)
