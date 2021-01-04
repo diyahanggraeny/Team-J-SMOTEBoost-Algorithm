@@ -5,6 +5,7 @@
 
 ## SMOTEBoost Algorithm
 * Reference paper :
+ * Chawla,Nitesh.V..,Lazarefic,Aleksandar..,O.Hall,Lawrence&W.Bowyer,Kevin.(2003).SMOTEBoost: Improving Prediction of the Minority Class in Boosting.7th European Conference on Principles and Practice of Knowledge Discovery in Databases (PKDD),107-119.
 
 
 * Path :
